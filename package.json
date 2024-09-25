@@ -11,8 +11,17 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "axios": "^1.7.7",
+    "canvas": "^2.11.2",
     "chatgpt": "^5.2.5",
+    "g-i-s": "^2.1.7",
+    "node-fetch": "^3.3.2",
     "nodemon": "^3.1.7",
-    "telegraf": "^4.16.3"
+    "promisify": "^0.0.3",
+    "snapsave-downloader2": "^6.9.5",
+    "stream": "^0.0.3",
+    "telegraf": "^4.16.3",
+    "yt-search": "^2.12.1",
+    "ytdl-core": "^4.11.5"
   }
 }
